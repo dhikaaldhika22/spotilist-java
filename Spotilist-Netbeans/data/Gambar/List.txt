@@ -1,0 +1,21 @@
+Kode , Judul , Genre , Album , Tahun , Artis , Record
+#01/Beautiful in White/Pop/Love Always/2017/Shane Filan/Universal Music Philippines Inc
+#02/Best Part/RNB Kontemporer/Freudian/2017/Daniel Caesar/Golden Child Recordings
+#03/Semesta Bersabda/Pop/Semesta Bersabda/2020/L.Y.O.N/Kawula Music
+#04/A Million Dreams/Pop/Reimagined/2017/Zif Zaifman ft Hugh Jackman dan Michelle Williams/Atlantic Records
+#05/Amin Paling Serius/Pop Indie/Amin Paling Serius/2019/Sal Priadi ft Nadin/Orang Pertunjukan
+#06/One Only/Pop/Walk the Walk/2018/Pamungkas/Mas Pam Records
+#07/Best Friend/Pop/Best Friend/2011/Jason Chen/Music Never Sleep
+#08/Just a Feeling/Pop/Hands All Over/2010/Maroon 5/Interscope Records
+#09/Play Date/Indie/Cry Baby (Deluxe Edition)/2015/Melanie Adele Martinez/Atlantic Records
+#10/Señorita/Pop/Señorita/2019/Camila Cabello ft Shawn Mendes/Island Records
+#11/Nandemonaiya/J-Pop/Kimi no Nawa/2017/RADWIMPS/Waku-Waku Japan
+#12/Gurenge/J-Pop/Kamado/2019/LIsA/Waku-Waku Japan
+#13/Yesterday/J-Pop/Hello World/2019/DanDism/Waku-Waku Japan
+#14/Pretender/J-Pop/Hello World/2017/DanDism/Waku-Waku Japan
+#15/Muhammad Nabina/Muslim/Ya Nur/2012/Maher Zein/Arabic Record
+#16/Wind/J-Pop/Naruto/2005/Akeboshi/Waku-Waku Japan
+#17/Guren/J-Pop/Naruto Shippuden/2015/Does/Waku-Waku Japan
+#18/See You Again/Pop/Fast and The Furious/2016/Charlie Puth/Music Pop
+
+#19/Daijobu/J-Pop/Tenki no Ko/2019/RADWIMPS/Waku-Waku Japan
